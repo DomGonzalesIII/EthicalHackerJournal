@@ -42,7 +42,7 @@ h2 {
   padding-top: 40px;
 }
 
-#toc {
+#tree {
   display: block;
   height: 100%;
   left: 0;
@@ -53,11 +53,11 @@ h2 {
   width: 25%;
 }
 
-#toc a {
+#tree a {
   color: #eee;
   text-decoration: none;
 }
 
-#toc ul {
+#tree ul {
   list-style-type: none;
 }
